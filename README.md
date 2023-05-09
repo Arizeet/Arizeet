@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arizeet
 - 👀 I’m interested in Programming
-- 👨‍💻 I know C language quite well
-- 🌱 I’m currently learning C++ & JavaScript
+- 👨‍💻 Currently learning MERN Stack Development
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on some cool project-work
 - 📫 arizeetbehera2001@gmail.com
 
