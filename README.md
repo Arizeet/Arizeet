@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Arizeet
 - 👀 I’m interested in Programming
-- 👨‍💻 Currently learning MERN Stack Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on some cool project-work
+- 👨‍💻 Currently learning Full Stack Development
 - 📫 arizeetbehera2001@gmail.com
 
 <!---
